@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">I am open to innovation, eager to learn and explore.Enjoy making connections and collaborating on projects.</h3>
+<h3 align="center">I am open to innovation, eager to learn and explore. Enjoy making connections and collaborating on projects.</h3>
 
 - 🌱 I’m currently learning **Cloud Services**
 
