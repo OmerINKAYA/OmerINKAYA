@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">I am open to innovation, eager to learn and explore. Enjoy making connections and collaborating on projects.</h3>
 
-- 🌱 I’m currently learning **Cloud Services**
+- 🌱 I’m currently learning **Database Management Systems**
 
 - 🏢 LinkedIn profile [https://www.linkedin.com/in/omer-inkaya/](https://www.linkedin.com/in/omer-inkaya/)
 
 - 📫 How to reach me **omerinkaya8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fypdzim4mLnAjfD8LkTAKOasKSP2kPU5/view?usp=sharing](https://drive.google.com/file/d/1fypdzim4mLnAjfD8LkTAKOasKSP2kPU5/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10_02dWKoW3e4rtBMMQqe--4PFAx9_YRJ/view?usp=sharing](https://drive.google.com/file/d/10_02dWKoW3e4rtBMMQqe--4PFAx9_YRJ/view?usp=sharing)
 
 <p align="left">
 </p>
