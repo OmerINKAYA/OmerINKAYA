@@ -1,32 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">I am open to innovation, eager to learn and explore. Enjoy making connections and collaborating on projects.</h3>
+### Hey, I'm Ömer 👋
 
-- 🌱 I’m currently learning **Database Management Systems**
+I'm a Computer Engineering student who enjoys building things that run behind the scenes.
 
-- 🏢 LinkedIn profile [https://www.linkedin.com/in/omer-inkaya/](https://www.linkedin.com/in/omer-inkaya/)
+-  I’m especially interested in **network systems** and **backend development**
+-  Currently learning **Flutter** and **Node.js**
 
-- 📫 How to reach me **omerinkaya8@gmail.com**
+---
+ Reach me:  
+[LinkedIn](https://www.linkedin.com/in/omer-inkaya/) • [Mail](mailto:omer.inkaya@bahcesehir.edu.tr)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10_02dWKoW3e4rtBMMQqe--4PFAx9_YRJ/view?usp=sharing](https://drive.google.com/file/d/10_02dWKoW3e4rtBMMQqe--4PFAx9_YRJ/view?usp=sharing)
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<!--
-**OmerINKAYA/OmerINKAYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like clean, functional code and learning by building real projects.  
+Feel free to check out what I’m working on ↓
