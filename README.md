@@ -1,9 +1,8 @@
 ### Hey, I'm Ömer 👋
 
-I'm a Computer Engineering student who enjoys building things that run behind the scenes.
+I'm a Computer Engineer who enjoys building things for work and for myself.
 
--  I’m especially interested in **network systems** and **backend development**
--  Currently working on **Node.js**, **Flutter** and **PHP**
+I'm mostly interested in backend development and computer networks.
 
 ---
  Reach me:  
